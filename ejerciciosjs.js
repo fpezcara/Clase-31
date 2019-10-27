@@ -47,3 +47,18 @@ let base = 4;
 console.log((altura * 2) + (base * 2));
 
 console.log(base * altura);
+
+// Ejercicio 33
+let cantidadDePersonas = 100;
+
+cantidadDePersonas += 5;
+
+console.log("Cantidad de personas: " + cantidadDePersonas);
+
+cantidadDePersonas -= 3;
+
+console.log("Cantidad de personas: " + cantidadDePersonas);
+
+cantidadDePersonas *= 2;
+
+console.log("Cantidad de personas: " + cantidadDePersonas);
