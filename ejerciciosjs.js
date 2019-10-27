@@ -62,3 +62,11 @@ console.log("Cantidad de personas: " + cantidadDePersonas);
 cantidadDePersonas *= 2;
 
 console.log("Cantidad de personas: " + cantidadDePersonas);
+
+// Ejercicio 35
+
+numeroDeCliente = 143245;
+numeroDeClienteIngresado = '143245';
+
+console.log("El número ingresado por el cliente es correcto: true o false ", numeroDeCliente == numeroDeClienteIngresado);
+console.log("El número ingresado por el cliente es correcto: true o false ", numeroDeCliente === numeroDeClienteIngresado);
